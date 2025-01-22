@@ -1,0 +1,5 @@
+res://models/tile.tscn
+res://scripts/grid.gd
+res://scenes/game.tscn
+res://prefabs/tile.tscn
+res://models/new_standard_material_3d.tres

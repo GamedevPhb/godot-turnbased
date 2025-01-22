@@ -1,0 +1,10 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1737572805
+icon.svg::CompressedTexture2D::4373373900093920237::1737572013::1737572025::1::::<><>::
+::res://models/::1737573023
+::res://prefabs/::1737573321
+node.tscn::PackedScene::3693642865106982206::1737573354::0::1::::<><>::
+::res://scenes/::1737573109
+game.tscn::PackedScene::5521583057033876999::1737573361::0::1::::<><>::res://scripts/grid.gd<>uid://bsvh01v2qxox7::::res://prefabs/node.tscn
+::res://scripts/::1737573106
+grid.gd::GDScript::-1::1737573348::0::1::::<>Node<>::
